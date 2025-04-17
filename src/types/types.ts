@@ -78,4 +78,3 @@ export interface SavedCommand {
   headers?: string; // Store as string (easier for LocalStorage)
   queryParams?: string; // Store as string
   body?: string; // Store as string
-}
