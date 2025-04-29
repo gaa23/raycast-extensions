@@ -1,8 +1,8 @@
 {
   "$schema": "https://www.raycast.com/schemas/extension.json",
-  "name": "n8n-workflows",
-  "version": "1.0.0",
-  "title": "N8n Workflows",
+  "name": "n8n",
+  "version": "2.0.0",
+  "title": "n8n",
   "description": "Search, manage, and trigger n8n workflows and webhooks.",
   "icon": "n8n.png",
   "author": "gaa23",
